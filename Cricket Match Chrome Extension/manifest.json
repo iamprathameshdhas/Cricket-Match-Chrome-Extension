@@ -1,0 +1,11 @@
+{
+    "name": "My Chrome Extension",
+    "version": "1.0.0",
+    "description": "Cricket matches Extension",
+    "manifest_version": 3,
+    "author": "Prathamesh Dhas",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "My Chrome Extension"
+    }
+}
